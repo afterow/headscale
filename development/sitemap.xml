@@ -57,6 +57,13 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/about/sponsor/"/>
     </url>
     <url>
+        <loc>https://juanfont.github.io/headscale/development/packaging/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/packaging/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/packaging/"/>
+    </url>
+    <url>
         <loc>https://juanfont.github.io/headscale/development/ref/acls/</loc>
         <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
@@ -251,6 +258,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/about/sponsor/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentabout/sponsor/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/packaging/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/packaging/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentpackaging/"/>
     </url>
     <url>
         <loc>https://juanfont.github.io/headscale/development/zh/ref/acls/</loc>
