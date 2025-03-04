@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/about/clients/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/about/clients/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/about/clients/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/about/contributing/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/about/contributing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/about/contributing/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/about/faq/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/about/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/about/faq/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/about/features/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/about/features/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/about/features/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/about/help/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/about/help/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/about/help/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/about/releases/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/about/releases/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/about/releases/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/about/sponsor/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/about/sponsor/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/about/sponsor/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/acls/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/acls/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/acls/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/configuration/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/configuration/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/dns/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/dns/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/dns/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/exit-node/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/exit-node/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/exit-node/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/oidc/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/oidc/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/oidc/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/remote-cli/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/remote-cli/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/remote-cli/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/tls/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/tls/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/tls/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/integration/reverse-proxy/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/integration/reverse-proxy/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/integration/reverse-proxy/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/integration/tools/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/integration/tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/integration/tools/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/ref/integration/web-ui/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/ref/integration/web-ui/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/ref/integration/web-ui/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/setup/requirements/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/setup/requirements/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/setup/requirements/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/setup/upgrade/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/setup/upgrade/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/setup/upgrade/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/setup/install/community/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/setup/install/community/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/setup/install/community/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/setup/install/container/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/setup/install/container/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/setup/install/container/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/setup/install/official/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/setup/install/official/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/setup/install/official/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/setup/install/source/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/setup/install/source/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/setup/install/source/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/usage/getting-started/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/usage/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/usage/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/usage/connect/android/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/usage/connect/android/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/usage/connect/android/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/usage/connect/apple/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/usage/connect/apple/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/usage/connect/apple/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/usage/connect/windows/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development/usage/connect/windows/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/developmentzh/usage/connect/windows/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/development"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/about/clients/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/about/clients/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentabout/clients/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/about/contributing/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/about/contributing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentabout/contributing/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/about/faq/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/about/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentabout/faq/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/about/features/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/about/features/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentabout/features/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/about/help/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/about/help/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentabout/help/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/about/releases/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/about/releases/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentabout/releases/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/about/sponsor/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/about/sponsor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentabout/sponsor/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/acls/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/acls/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/acls/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/configuration/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/configuration/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/dns/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/dns/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/dns/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/exit-node/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/exit-node/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/exit-node/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/oidc/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/oidc/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/oidc/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/remote-cli/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/remote-cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/remote-cli/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/tls/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/tls/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/tls/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/integration/reverse-proxy/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/integration/reverse-proxy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/integration/reverse-proxy/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/integration/tools/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/integration/tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/integration/tools/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/ref/integration/web-ui/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/ref/integration/web-ui/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentref/integration/web-ui/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/setup/requirements/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/setup/requirements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentsetup/requirements/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/setup/upgrade/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/setup/upgrade/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentsetup/upgrade/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/setup/install/community/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/setup/install/community/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentsetup/install/community/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/setup/install/container/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/setup/install/container/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentsetup/install/container/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/setup/install/official/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/setup/install/official/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentsetup/install/official/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/setup/install/source/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/setup/install/source/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentsetup/install/source/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/usage/getting-started/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/usage/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentusage/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/usage/connect/android/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/usage/connect/android/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentusage/connect/android/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/usage/connect/apple/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/usage/connect/apple/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentusage/connect/apple/"/>
+    </url>
+    <url>
+        <loc>https://juanfont.github.io/headscale/development/zh/usage/connect/windows/</loc>
+        <lastmod>2025-03-04</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://juanfont.github.io/headscale/development/zh/usage/connect/windows/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://juanfont.github.io/headscale/developmentusage/connect/windows/"/>
+    </url>
+</urlset>
